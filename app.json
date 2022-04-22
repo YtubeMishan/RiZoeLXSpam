@@ -19,7 +19,7 @@
         "required": true
       },
       "ALIVE_PIC": {
-        "description": "your alive pic or video",
+        "description": "your alive pic or videoss",
         "value": "",
         "required": false
       },
